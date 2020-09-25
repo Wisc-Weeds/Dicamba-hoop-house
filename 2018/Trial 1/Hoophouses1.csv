@@ -1,0 +1,529 @@
+Plot,Trt,DAT,Rep,Distance,Injury,Heightin,Plants,Injured,Heightcm
+101,Xtendimax w/Vaporgrip,14,1,0,15,14,76,40,36
+101,Xtendimax w/Vaporgrip,14,1,30,12,14,,,36
+101,Xtendimax w/Vaporgrip,14,1,60,25,15,,,38
+101,Xtendimax w/Vaporgrip,14,1,90,5,13.5,,,34
+101,Xtendimax w/Vaporgrip,14,1,120,5,14,,,36
+101,Xtendimax w/Vaporgrip,14,1,  ,4,13,,,33
+101,Xtendimax w/Vaporgrip,14,1,180,4,13,,,33
+101,Xtendimax w/Vaporgrip,14,1,210,5,16,,,41
+101,Xtendimax w/Vaporgrip,14,1,240,2,16,,,41
+101,Xtendimax w/Vaporgrip,14,1,270,1,15.5,,,39
+101,Xtendimax w/Vaporgrip,14,1,300,1,13,,,33
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,0,7,15,84,39,38
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,30,5,17,,,43
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,60,15,17,,,43
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,90,4,16,,,41
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,120,3,16,,,41
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,150,2,16.5,,,42
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,180,30,15,,,38
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,210,3,16,,,41
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,240,2,16,,,41
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,270,4,17,,,43
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,14,1,300,0,17,,,43
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,0,40,15.5,73,45,39
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,30,30,15,,,38
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,60,28,15,,,38
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,90,12,15,,,38
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,120,5,16,,,41
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,150,5,14,,,36
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,180,4,17,,,43
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,210,3,17,,,43
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,240,1,15,,,38
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,270,2,14.5,,,37
+103,Xtendimax w/Vaporgrip + PowerMax,14,1,300,1,14,,,36
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,0,40,15.5,74,74,39
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,30,38,16,,,41
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,60,30,11,,,28
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,90,30,15,,,38
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,120,30,14,,,36
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,150,30,15,,,38
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,180,25,16,,,41
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,210,25,13,,,33
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,240,20,15,,,38
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,270,25,15,,,38
+104,Xtendimax w/Vaporgrip + Durango DMA,14,1,300,20,15,,,38
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,0,5,18,72,18,46
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,30,3,17,,,43
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,60,2,17,,,43
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,90,10,18,,,46
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,120,20,16,,,41
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,150,3,16,,,41
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,180,0,16.5,,,42
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,210,0,17,,,43
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,240,1,18,,,46
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,270,0,16,,,41
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,1,300,2,15,,,38
+106,Mon 76981 - RupXtend,14,1,0,35,13,76,44,33
+106,Mon 76981 - RupXtend,14,1,30,20,16.5,,,42
+106,Mon 76981 - RupXtend,14,1,60,10,17,,,43
+106,Mon 76981 - RupXtend,14,1,90,13,15,,,38
+106,Mon 76981 - RupXtend,14,1,120,10,14,,,36
+106,Mon 76981 - RupXtend,14,1,150,10,15.5,,,39
+106,Mon 76981 - RupXtend,14,1,180,15,18,,,46
+106,Mon 76981 - RupXtend,14,1,210,8,17,,,43
+106,Mon 76981 - RupXtend,14,1,240,5,17,,,43
+106,Mon 76981 - RupXtend,14,1,270,3,17.5,,,44
+106,Mon 76981 - RupXtend,14,1,300,2,17.5,,,44
+107,Mon 76981 - RupXtend + Liberty,14,1,0,2,16,76,51,41
+107,Mon 76981 - RupXtend + Liberty,14,1,30,2,16,,,41
+107,Mon 76981 - RupXtend + Liberty,14,1,60,7,17,,,43
+107,Mon 76981 - RupXtend + Liberty,14,1,90,15,17.5,,,44
+107,Mon 76981 - RupXtend + Liberty,14,1,120,16,17.5,,,44
+107,Mon 76981 - RupXtend + Liberty,14,1,150,5,16,,,41
+107,Mon 76981 - RupXtend + Liberty,14,1,180,8,18,,,46
+107,Mon 76981 - RupXtend + Liberty,14,1,210,12,18,,,46
+107,Mon 76981 - RupXtend + Liberty,14,1,240,7,19,,,48
+107,Mon 76981 - RupXtend + Liberty,14,1,270,3,17,,,43
+107,Mon 76981 - RupXtend + Liberty,14,1,300,0,15,,,38
+108,Untreated,14,1,0,0,15,77,0,38
+108,Untreated,14,1,30,0,15.5,,,39
+108,Untreated,14,1,60,0,16,,,41
+108,Untreated,14,1,90,0,15.5,,,39
+108,Untreated,14,1,120,0,15,,,38
+108,Untreated,14,1,150,0,16,,,41
+108,Untreated,14,1,180,0,17,,,43
+108,Untreated,14,1,210,0,16,,,41
+108,Untreated,14,1,240,0,17,,,43
+108,Untreated,14,1,270,0,16,,,41
+108,Untreated,14,1,300,0,15.5,,,39
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,0,40,16,78,78,41
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,30,45,12,,,30
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,60,40,12,,,30
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,90,40,14.5,,,37
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,120,40,14,,,36
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,150,40,14.5,,,37
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,180,40,11,,,28
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,210,35,13,,,33
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,240,30,15.5,,,39
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,270,30,16.5,,,42
+201,Xtendimax w/Vaporgrip + Durango DMA,14,2,300,30,15.5,,,39
+202,Mon 76981 - RupXtend + Liberty,14,2,0,0,15,76,50,38
+202,Mon 76981 - RupXtend + Liberty,14,2,30,7,15,,,38
+202,Mon 76981 - RupXtend + Liberty,14,2,60,8,15,,,38
+202,Mon 76981 - RupXtend + Liberty,14,2,90,5,16,,,41
+202,Mon 76981 - RupXtend + Liberty,14,2,120,6,17.5,,,44
+202,Mon 76981 - RupXtend + Liberty,14,2,150,8,17,,,43
+202,Mon 76981 - RupXtend + Liberty,14,2,180,5,17.5,,,44
+202,Mon 76981 - RupXtend + Liberty,14,2,210,1,17,,,43
+202,Mon 76981 - RupXtend + Liberty,14,2,240,3,16.5,,,42
+202,Mon 76981 - RupXtend + Liberty,14,2,270,1,17,,,43
+202,Mon 76981 - RupXtend + Liberty,14,2,300,0,16,,,41
+203,Mon 76981 - RupXtend,14,2,0,5,16,78,78,41
+203,Mon 76981 - RupXtend,14,2,30,15,17,,,43
+203,Mon 76981 - RupXtend,14,2,60,15,16,,,41
+203,Mon 76981 - RupXtend,14,2,90,10,17,,,43
+203,Mon 76981 - RupXtend,14,2,120,8,17,,,43
+203,Mon 76981 - RupXtend,14,2,150,10,16,,,41
+203,Mon 76981 - RupXtend,14,2,180,7,19,,,48
+203,Mon 76981 - RupXtend,14,2,210,8,17,,,43
+203,Mon 76981 - RupXtend,14,2,240,4,17,,,43
+203,Mon 76981 - RupXtend,14,2,270,4,16,,,41
+203,Mon 76981 - RupXtend,14,2,300,5,16,,,41
+204,Xtendimax w/Vaporgrip,14,2,0,20,16.5,77,11,42
+204,Xtendimax w/Vaporgrip,14,2,30,2,16.5,,,42
+204,Xtendimax w/Vaporgrip,14,2,60,0,16.5,,,42
+204,Xtendimax w/Vaporgrip,14,2,90,0,5,,,13
+204,Xtendimax w/Vaporgrip,14,2,120,0,16.5,,,42
+204,Xtendimax w/Vaporgrip,14,2,150,0,17,,,43
+204,Xtendimax w/Vaporgrip,14,2,180,0,14,,,36
+204,Xtendimax w/Vaporgrip,14,2,210,1,17.5,,,44
+204,Xtendimax w/Vaporgrip,14,2,240,1,16.5,,,42
+204,Xtendimax w/Vaporgrip,14,2,270,0,16,,,41
+204,Xtendimax w/Vaporgrip,14,2,300,0,16,,,41
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,0,15,17,76,30,43
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,30,5,17,,,43
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,60,20,13.5,,,34
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,90,10,13,,,33
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,120,3,17,,,43
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,150,2,17,,,43
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,180,1,18,,,46
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,210,0,18,,,46
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,240,0,16,,,41
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,270,0,16,,,41
+205,Xtendimax w/Vaporgrip + PowerMax,14,2,300,0,15,,,38
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,0,2,16.2,76,18,41
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,30,1,15.5,,,39
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,60,20,12,,,30
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,90,0,16,,,41
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,120,0,18,,,46
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,150,0,16.5,,,42
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,180,0,17,,,43
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,210,0,13.5,,,34
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,240,2,17,,,43
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,270,0,18,,,46
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,14,2,300,2,17,,,43
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,0,1,16,76,6,41
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,30,2,16,,,41
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,60,2,16,,,41
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,90,0,17,,,43
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,120,0,16,,,41
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,150,0,18,,,46
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,180,0,17,,,43
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,210,0,14,,,36
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,240,0,19,,,48
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,270,0,18,,,46
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,2,300,0,17.5,,,44
+208,Untreated,14,2,0,0,16,75,0,41
+208,Untreated,14,2,30,0,15.5,,,39
+208,Untreated,14,2,60,0,15.5,,,39
+208,Untreated,14,2,90,0,17,,,43
+208,Untreated,14,2,120,0,18,,,46
+208,Untreated,14,2,150,0,16,,,41
+208,Untreated,14,2,180,0,16.5,,,42
+208,Untreated,14,2,210,0,16,,,41
+208,Untreated,14,2,240,0,16.5,,,42
+208,Untreated,14,2,270,0,14.5,,,37
+208,Untreated,14,2,300,0,14,,,36
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,0,20,16,71,53,41
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,30,15,12,,,30
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,60,10,16,,,41
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,90,3,19,,,48
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,120,3,18,,,46
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,150,2,18,,,46
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,180,2,17,,,43
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,210,2,6,,,15
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,240,2,17,,,43
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,270,3,15,,,38
+301,Xtendimax w/Vaporgrip + PowerMax,14,3,300,1,16,,,41
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,0,0,15,74,17,38
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,30,3,17,,,43
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,60,2,17,,,43
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,90,0,16,,,41
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,120,10,10,,,25
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,150,1,17,,,43
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,180,0,17.5,,,44
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,210,0,15.5,,,39
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,240,0,16.5,,,42
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,270,0,18,,,46
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,14,3,300,0,18.5,,,47
+303,Mon 76981 - RupXtend + Liberty,14,3,0,35,15.5,74,40,39
+303,Mon 76981 - RupXtend + Liberty,14,3,30,25,17.5,,,44
+303,Mon 76981 - RupXtend + Liberty,14,3,60,20,17,,,43
+303,Mon 76981 - RupXtend + Liberty,14,3,90,15,17.5,,,44
+303,Mon 76981 - RupXtend + Liberty,14,3,120,10,16,,,41
+303,Mon 76981 - RupXtend + Liberty,14,3,150,2,17.5,,,44
+303,Mon 76981 - RupXtend + Liberty,14,3,180,4,16,,,41
+303,Mon 76981 - RupXtend + Liberty,14,3,210,0,16,,,41
+303,Mon 76981 - RupXtend + Liberty,14,3,240,0,15.5,,,39
+303,Mon 76981 - RupXtend + Liberty,14,3,270,0,17,,,43
+303,Mon 76981 - RupXtend + Liberty,14,3,300,0,16,,,41
+304,Untreated,14,3,0,0,18,78,0,46
+304,Untreated,14,3,30,0,15,,,38
+304,Untreated,14,3,60,0,16,,,41
+304,Untreated,14,3,90,0,16.5,,,42
+304,Untreated,14,3,120,0,17,,,43
+304,Untreated,14,3,150,0,17.5,,,44
+304,Untreated,14,3,180,0,8,,,20
+304,Untreated,14,3,210,0,18.5,,,47
+304,Untreated,14,3,240,0,17,,,43
+304,Untreated,14,3,270,0,17,,,43
+304,Untreated,14,3,300,0,19,,,48
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,0,45,17,74,74,43
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,30,45,16.5,,,42
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,60,40,16,,,41
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,90,45,16,,,41
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,120,35,4,,,10
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,150,35,11,,,28
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,180,35,12,,,30
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,210,25,16,,,41
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,240,25,16,,,41
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,270,25,19,,,48
+305,Xtendimax w/Vaporgrip + Durango DMA,14,3,300,25,18.5,,,47
+306,Xtendimax w/Vaporgrip,14,3,0,2,17.5,74,12,44
+306,Xtendimax w/Vaporgrip,14,3,30,0,19,,,48
+306,Xtendimax w/Vaporgrip,14,3,60,20,17,,,43
+306,Xtendimax w/Vaporgrip,14,3,90,2,16,,,41
+306,Xtendimax w/Vaporgrip,14,3,120,0,19,,,48
+306,Xtendimax w/Vaporgrip,14,3,150,0,18,,,46
+306,Xtendimax w/Vaporgrip,14,3,180,2,18.5,,,47
+306,Xtendimax w/Vaporgrip,14,3,210,0,18,,,46
+306,Xtendimax w/Vaporgrip,14,3,240,0,17,,,43
+306,Xtendimax w/Vaporgrip,14,3,270,0,18,,,46
+306,Xtendimax w/Vaporgrip,14,3,300,0,17.5,,,44
+307,Mon 76981 - RupXtend,14,3,0,15,19,71,71,48
+307,Mon 76981 - RupXtend,14,3,30,8,17,,,43
+307,Mon 76981 - RupXtend,14,3,60,7,18,,,46
+307,Mon 76981 - RupXtend,14,3,90,10,18.5,,,47
+307,Mon 76981 - RupXtend,14,3,120,12,18.5,,,47
+307,Mon 76981 - RupXtend,14,3,150,10,18,,,46
+307,Mon 76981 - RupXtend,14,3,180,5,18,,,46
+307,Mon 76981 - RupXtend,14,3,210,10,18,,,46
+307,Mon 76981 - RupXtend,14,3,240,10,16.5,,,42
+307,Mon 76981 - RupXtend,14,3,270,8,18,,,46
+307,Mon 76981 - RupXtend,14,3,300,5,12,,,30
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,0,2,13,74,20,33
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,30,4,17,,,43
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,60,2,18,,,46
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,90,5,16,,,41
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,120,3,17,,,43
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,150,0,17.5,,,44
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,180,0,17,,,43
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,210,0,17,,,43
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,240,0,17.5,,,44
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,270,0,17.5,,,44
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,14,3,300,0,17,,,43
+101,Xtendimax w/Vaporgrip,28,1,0,20,27,76,20,69
+101,Xtendimax w/Vaporgrip,28,1,30,10,23,,,58
+101,Xtendimax w/Vaporgrip,28,1,60,2,26,,,66
+101,Xtendimax w/Vaporgrip,28,1,90,0,25,,,64
+101,Xtendimax w/Vaporgrip,28,1,120,0,25,,,64
+101,Xtendimax w/Vaporgrip,28,1,150,0,24,,,61
+101,Xtendimax w/Vaporgrip,28,1,180,2,27,,,69
+101,Xtendimax w/Vaporgrip,28,1,210,0,27,,,69
+101,Xtendimax w/Vaporgrip,28,1,240,0,28,,,71
+101,Xtendimax w/Vaporgrip,28,1,270,0,25,,,64
+101,Xtendimax w/Vaporgrip,28,1,300,0,27,,,69
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,0,0,27,84,16,69
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,30,0,28,,,71
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,60,0,29,,,74
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,90,5,27,,,69
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,120,0,28,,,71
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,150,35,23,,,58
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,180,2,28,,,71
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,210,0,24,,,61
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,240,0,27,,,69
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,270,0,28,,,71
+102,Xtendimax w/Vaporgrip + PowerMax + Intact,28,1,300,0,26,,,66
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,0,40,14,76,28,36
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,30,35,20,,,51
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,60,35,25,,,64
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,90,15,27,,,69
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,120,2,25,,,64
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,150,0,24,,,61
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,180,0,27,,,69
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,210,0,28,,,71
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,240,0,28,,,71
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,270,0,23,,,58
+103,Xtendimax w/Vaporgrip + PowerMax,28,1,300,0,24,,,61
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,0,55,23,74,74,58
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,30,55,19,,,48
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,60,60,24,,,61
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,90,55,19,,,48
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,120,50,22,,,56
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,150,50,25,,,64
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,180,50,23,,,58
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,210,45,23,,,58
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,240,45,24,,,61
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,270,45,24,,,61
+104,Xtendimax w/Vaporgrip + Durango DMA,28,1,300,45,23,,,58
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,0,2,26,72,16,66
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,30,0,29,,,74
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,60,0,27,,,69
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,90,0,28,,,71
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,120,20,27,,,69
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,150,0,28,,,71
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,180,0,27,,,69
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,210,0,28,,,71
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,240,0,29,,,74
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,270,0,27,,,69
+105,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,1,300,0,25,,,64
+106,Mon 76981 - RupXtend,28,1,0,5,27,76,76,69
+106,Mon 76981 - RupXtend,28,1,30,5,29,,,74
+106,Mon 76981 - RupXtend,28,1,60,20,28,,,71
+106,Mon 76981 - RupXtend,28,1,90,25,27,,,69
+106,Mon 76981 - RupXtend,28,1,120,25,26,,,66
+106,Mon 76981 - RupXtend,28,1,150,15,28,,,71
+106,Mon 76981 - RupXtend,28,1,180,20,28,,,71
+106,Mon 76981 - RupXtend,28,1,210,5,27,,,69
+106,Mon 76981 - RupXtend,28,1,240,2,29,,,74
+106,Mon 76981 - RupXtend,28,1,270,2,26,,,66
+106,Mon 76981 - RupXtend,28,1,300,0,28,,,71
+107,Mon 76981 - RupXtend + Liberty,28,1,0,5,28,76,76,71
+107,Mon 76981 - RupXtend + Liberty,28,1,30,20,26,,,66
+107,Mon 76981 - RupXtend + Liberty,28,1,60,15,26,,,66
+107,Mon 76981 - RupXtend + Liberty,28,1,90,20,27,,,69
+107,Mon 76981 - RupXtend + Liberty,28,1,120,25,27,,,69
+107,Mon 76981 - RupXtend + Liberty,28,1,150,20,30,,,76
+107,Mon 76981 - RupXtend + Liberty,28,1,180,25,30,,,76
+107,Mon 76981 - RupXtend + Liberty,28,1,210,20,30,,,76
+107,Mon 76981 - RupXtend + Liberty,28,1,240,10,30,,,76
+107,Mon 76981 - RupXtend + Liberty,28,1,270,10,30,,,76
+107,Mon 76981 - RupXtend + Liberty,28,1,300,5,28,,,71
+108,Untreated,28,1,0,0,29,77,0,74
+108,Untreated,28,1,30,0,29,75,0,74
+108,Untreated,28,1,60,0,30,78,0,76
+108,Untreated,28,1,90,0,28,,,71
+108,Untreated,28,1,120,0,27,,,69
+108,Untreated,28,1,150,0,29,,,74
+108,Untreated,28,1,180,0,30,,,76
+108,Untreated,28,1,210,0,29,,,74
+108,Untreated,28,1,240,0,30,,,76
+108,Untreated,28,1,270,0,29,,,74
+108,Untreated,28,1,300,0,30,,,76
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,0,55,26,78,78,66
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,30,55,19,,,48
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,60,55,19,,,48
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,90,55,20,,,51
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,120,55,15,,,38
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,150,55,18,,,46
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,180,55,18,,,46
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,210,55,23,,,58
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,240,55,24,,,61
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,270,50,22,,,56
+201,Xtendimax w/Vaporgrip + Durango DMA,28,2,300,50,24,,,61
+202,Mon 76981 - RupXtend + Liberty,28,2,0,2,29,76,76,74
+202,Mon 76981 - RupXtend + Liberty,28,2,30,5,28,,,71
+202,Mon 76981 - RupXtend + Liberty,28,2,60,15,30,,,76
+202,Mon 76981 - RupXtend + Liberty,28,2,90,25,27,,,69
+202,Mon 76981 - RupXtend + Liberty,28,2,120,10,28,,,71
+202,Mon 76981 - RupXtend + Liberty,28,2,150,10,29,,,74
+202,Mon 76981 - RupXtend + Liberty,28,2,180,5,28,,,71
+202,Mon 76981 - RupXtend + Liberty,28,2,210,5,29,,,74
+202,Mon 76981 - RupXtend + Liberty,28,2,240,2,27,,,69
+202,Mon 76981 - RupXtend + Liberty,28,2,270,2,28,,,71
+202,Mon 76981 - RupXtend + Liberty,28,2,300,0,28,,,71
+203,Mon 76981 - RupXtend,28,2,0,40,27,78,78,69
+203,Mon 76981 - RupXtend,28,2,30,55,28,,,71
+203,Mon 76981 - RupXtend,28,2,60,55,27,,,69
+203,Mon 76981 - RupXtend,28,2,90,50,29,,,74
+203,Mon 76981 - RupXtend,28,2,120,45,29,,,74
+203,Mon 76981 - RupXtend,28,2,150,45,28,,,71
+203,Mon 76981 - RupXtend,28,2,180,40,27,,,69
+203,Mon 76981 - RupXtend,28,2,210,40,26,,,66
+203,Mon 76981 - RupXtend,28,2,240,40,29,,,74
+203,Mon 76981 - RupXtend,28,2,270,30,29,,,74
+203,Mon 76981 - RupXtend,28,2,300,35,29,,,74
+204,Xtendimax w/Vaporgrip,28,2,0,20,29,77,6,74
+204,Xtendimax w/Vaporgrip,28,2,30,5,27,,,69
+204,Xtendimax w/Vaporgrip,28,2,60,0,28,,,71
+204,Xtendimax w/Vaporgrip,28,2,90,0,27,,,69
+204,Xtendimax w/Vaporgrip,28,2,120,0,29,,,74
+204,Xtendimax w/Vaporgrip,28,2,150,0,28,,,71
+204,Xtendimax w/Vaporgrip,28,2,180,0,29,,,74
+204,Xtendimax w/Vaporgrip,28,2,210,0,29,,,74
+204,Xtendimax w/Vaporgrip,28,2,240,0,28,,,71
+204,Xtendimax w/Vaporgrip,28,2,270,0,28,,,71
+204,Xtendimax w/Vaporgrip,28,2,300,0,29,,,74
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,0,40,27,76,29,69
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,30,10,27,,,69
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,60,10,28,,,71
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,90,2,27,,,69
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,120,2,27,,,69
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,150,2,28,,,71
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,180,0,28,,,71
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,210,0,29,,,74
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,240,0,29,,,74
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,270,0,28,,,71
+205,Xtendimax w/Vaporgrip + PowerMax,28,2,300,0,29,,,74
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,0,1,29,76,27,74
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,30,15,28,,,71
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,60,2,28,,,71
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,90,0,28,,,71
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,120,2,30,,,76
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,150,0,29,,,74
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,180,0,27,,,69
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,210,0,28,,,71
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,240,0,29,,,74
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,270,0,28,,,71
+206,Xtendimax w/Vaporgrip + PowerMax + Intact,28,2,300,0,29,,,74
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,0,0,28,76,6,71
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,30,0,26,,,66
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,60,0,28,,,71
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,90,0,29,,,74
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,120,2,30,,,76
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,150,2,29,,,74
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,180,0,31,,,79
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,210,0,29,,,74
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,240,0,31,,,79
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,270,0,30,,,76
+207,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,2,300,0,30,,,76
+208,Untreated,28,2,0,0,27,75,0,69
+208,Untreated,28,2,30,0,23,,,58
+208,Untreated,28,2,60,0,27,,,69
+208,Untreated,28,2,90,0,28,,,71
+208,Untreated,28,2,120,0,27,,,69
+208,Untreated,28,2,150,0,28,,,71
+208,Untreated,28,2,180,0,30,,,76
+208,Untreated,28,2,210,0,28,,,71
+208,Untreated,28,2,240,0,29,,,74
+208,Untreated,28,2,270,0,29,,,74
+208,Untreated,28,2,300,0,28,,,71
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,0,10,27,71,71,69
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,30,10,24,,,61
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,60,12,29,,,74
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,90,10,31,,,79
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,120,5,30,,,76
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,150,2,29,,,74
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,180,1,30,,,76
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,210,1,29,,,74
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,240,10,27,,,69
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,270,3,26,,,66
+301,Xtendimax w/Vaporgrip + PowerMax,28,3,300,1,29,,,74
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,0,1,29,74,24,74
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,30,0,28,,,71
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,60,1,30,,,76
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,90,0,30,,,76
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,120,0,29,,,74
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,150,0,29,,,74
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,180,1,29,,,74
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,210,0,28,,,71
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,240,0,29,,,74
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,270,0,30,,,76
+302,Xtendimax w/Vaporgrip + PowerMax + Intact + Mon-10,28,3,300,0,30,,,76
+303,Mon 76981 - RupXtend + Liberty,28,3,0,30,24,74,74,61
+303,Mon 76981 - RupXtend + Liberty,28,3,30,35,28,,,71
+303,Mon 76981 - RupXtend + Liberty,28,3,60,40,26,,,66
+303,Mon 76981 - RupXtend + Liberty,28,3,90,35,30,,,76
+303,Mon 76981 - RupXtend + Liberty,28,3,120,30,29,,,74
+303,Mon 76981 - RupXtend + Liberty,28,3,150,20,29,,,74
+303,Mon 76981 - RupXtend + Liberty,28,3,180,15,27,,,69
+303,Mon 76981 - RupXtend + Liberty,28,3,210,5,29,,,74
+303,Mon 76981 - RupXtend + Liberty,28,3,240,2,27,,,69
+303,Mon 76981 - RupXtend + Liberty,28,3,270,2,26,,,66
+303,Mon 76981 - RupXtend + Liberty,28,3,300,0,28,,,71
+304,Untreated,28,3,0,0,28,78,0,71
+304,Untreated,28,3,30,0,30,,,76
+304,Untreated,28,3,60,0,28,,,71
+304,Untreated,28,3,90,0,29,,,74
+304,Untreated,28,3,120,0,28,,,71
+304,Untreated,28,3,150,0,28,,,71
+304,Untreated,28,3,180,0,29,,,74
+304,Untreated,28,3,210,0,30,,,76
+304,Untreated,28,3,240,0,28,,,71
+304,Untreated,28,3,270,0,30,,,76
+304,Untreated,28,3,300,0,29,,,74
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,0,50,27,74,74,69
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,30,50,26,,,66
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,60,50,27,,,69
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,90,55,20,,,51
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,120,55,19,,,48
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,150,55,21,,,53
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,180,50,26,,,66
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,210,50,26,,,66
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,240,50,25,,,64
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,270,50,27,,,69
+305,Xtendimax w/Vaporgrip + Durango DMA,28,3,300,45,27,,,69
+306,Xtendimax w/Vaporgrip,28,3,0,0,28,74,5,71
+306,Xtendimax w/Vaporgrip,28,3,30,1,31,,,79
+306,Xtendimax w/Vaporgrip,28,3,60,30,29,,,74
+306,Xtendimax w/Vaporgrip,28,3,90,1,29,,,74
+306,Xtendimax w/Vaporgrip,28,3,120,1,30,,,76
+306,Xtendimax w/Vaporgrip,28,3,150,0,29,,,74
+306,Xtendimax w/Vaporgrip,28,3,180,0,30,,,76
+306,Xtendimax w/Vaporgrip,28,3,210,0,29,,,74
+306,Xtendimax w/Vaporgrip,28,3,240,0,28,,,71
+306,Xtendimax w/Vaporgrip,28,3,270,0,29,,,74
+306,Xtendimax w/Vaporgrip,28,3,300,0,29,,,74
+307,Mon 76981 - RupXtend,28,3,0,35,31,71,71,79
+307,Mon 76981 - RupXtend,28,3,30,30,28,,,71
+307,Mon 76981 - RupXtend,28,3,60,30,28,,,71
+307,Mon 76981 - RupXtend,28,3,90,32,27,,,69
+307,Mon 76981 - RupXtend,28,3,120,30,30,,,76
+307,Mon 76981 - RupXtend,28,3,150,25,29,,,74
+307,Mon 76981 - RupXtend,28,3,180,25,30,,,76
+307,Mon 76981 - RupXtend,28,3,210,25,30,,,76
+307,Mon 76981 - RupXtend,28,3,240,25,28,,,71
+307,Mon 76981 - RupXtend,28,3,270,25,28,,,71
+307,Mon 76981 - RupXtend,28,3,300,20,29,,,74
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,0,2,29,74,14,74
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,30,3,29.5,,,75
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,60,1,28,,,71
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,90,2,28,,,71
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,120,2,29,,,74
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,150,1,27,,,69
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,180,0,28,,,71
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,210,0,28,,,71
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,240,0,29,,,74
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,270,1,28,,,71
+308,Xtendimax w/Vaporgrip + PowerMax + Intact,28,3,300,0,29,,,74

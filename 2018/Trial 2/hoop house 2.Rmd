@@ -1,0 +1,96 @@
+---
+title: "Hoophouse2"
+author: "Maxwel Coura Oliveira"
+date: "8/10/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(tidyverse)
+library(gganimate)
+library(tidypaleo)
+library(png)
+library(grid)
+#devtools::install_github("paleolimbot/tidypaleo")
+```
+
+```{r Data, echo=FALSE}
+Data=read_csv("Hoophouse2.csv")
+str(Data)
+names(Data)
+glimpse(Data)
+```
+
+
+```{r 14 DAT}
+Data1 = filter(Data, DAT == "14")
+Data1$Distance=as.factor(Data1$Distance)
+```
+
+```{r}
+img  <- readPNG("Logo.png") 
+g <- rasterGrob(img, interpolate=TRUE) 
+```
+
+
+```{r Names change, include=FALSE}
+Data1$Trt <-factor(Data1$Trt, levels=c("Xtendimax + PowerMax", "Xtendimax II + PowerMax", "RupXtend VGrip", "RupXtend II VGrip", "Xtendimax II + Liberty", "RupXtend II Vgrip + Liberty", "Untreated"), labels=c("Xtendimax + PowerMax", "Xtendimax II + PowerMax", "RupXtend VGrip", "RupXtend II VGrip", "Xtendimax II + Liberty", "RupXtend II Vgrip + Liberty", "Untreated"))
+```
+
+
+```{r Monsanto hoop house 1 14 DAT Figure}
+ggplot(data=Data1, aes(y=Injury, x=Distance)) + #geom_bar(stat="summary", fun.y="mean", fill="red", width=12) + 
+  ggtitle("Monsanto Dicamba Volatility Low-Tunnel 2 - 14 DAT") + geom_boxplot(outlier.shape=NA, fill="red", alpha=0.2, width=0.5) +
+  scale_x_discrete(breaks=c(0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300)) +
+    theme(axis.text=element_text(size=12, color="black"), 
+        axis.title=element_text(size=15,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), 
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 13, margin = margin(0.1,0,0.1,0, "cm"), color="white")) + ylim(0,80) + facet_wrap(~Trt, ncol = 2) + labs(y="Soybean Injury (%)", x="Distance (cm)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") + 
+    ggsave("hoop3.tiff", units="in", width=8, height=6, dpi=300)
+```
+
+
+
+
+```{r 28 DAT}
+Data2 = filter(Data, DAT == "28")
+glimpse(Data2)
+Data2$Distance=as.factor(Data2$Distance)
+```
+
+```{r Names change, include=FALSE}
+Data2$Trt <-factor(Data2$Trt, levels=c("Xtendimax + PowerMax", "Xtendimax II + PowerMax", "RupXtend VGrip", "RupXtend II VGrip", "Xtendimax II + Liberty", "RupXtend II Vgrip + Liberty", "Untreated"), labels=c("Xtendimax + PowerMax", "Xtendimax II + PowerMax", "RupXtend VGrip", "RupXtend II VGrip", "Xtendimax II + Liberty", "RupXtend II Vgrip + Liberty", "Untreated"))
+```
+
+```{r Monsanto hoop house 1 28 DAT Figure}
+ggplot(data=Data2, aes(y=Injury, x=Distance)) + #geom_bar(stat="summary", fun.y="mean", fill="red", width=12) + 
+  ggtitle("Monsanto Dicamba Volatility Low-Tunnel 2 - 28 DAT") + geom_boxplot(outlier.shape=NA, fill="red", alpha=0.2, width=0.5) + #geom_jitter(shape=1, width = .05) + 
+  scale_x_discrete(breaks=c(0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300)) +
+    theme(axis.text=element_text(size=12, color="black"), 
+        axis.title=element_text(size=15,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), 
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 13, margin = margin(0.1,0,0.1,0, "cm"), color="white")) + ylim(0,80) + facet_wrap(~Trt, ncol = 2) + labs(y="Soybean Injury (%)", x="Distance (cm)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") + 
+    ggsave("hoop4.tiff", units="in", width=8, height=6, dpi=300)
+```
+
+
+
+
+```{r Monsanto hoop house 2 28 DAT GIF}
+ggplot(data=Data2, aes(y=Injury, x=Distance, frame=Trt)) + #geom_bar(stat="summary", fun.y="mean", fill="red", width=12) + 
+  geom_boxplot(outlier.shape=NA, fill="red", alpha=0.2, width=0.5) + annotation_custom(g, xmin=-Inf, xmax=20.5, ymin=68, ymax=78) +
+  scale_x_discrete(breaks=c(0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300)) + scale_y_continuous(breaks=c(0, 10, 20, 30, 40, 50, 60, 70, 80, 90)) +
+    theme(axis.text=element_text(size=12, color="black"), plot.subtitle = element_text(hjust = 0.5),
+        axis.title=element_text(size=15,face="bold"), plot.title = element_text(size=15, face="bold", hjust = 0.5),
+        panel.background = element_rect(fill="white", color = "black"), 
+        panel.grid.major = element_line(color = "white")) + labs(title='{closest_state}', y="Soybean Injury (%)", x="Distance (cm)", subtitle = "Monsanto Dicamba Volatility Low-Tunnel 2 - 28 DAT", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") + 
+  transition_states(Trt, transition_length = 3, state_length = 3) + 
+  enter_fade() + 
+  exit_shrink() +
+  ease_aes('sine-in-out') +
+  anim_save("hoop4.gif") 
+```
+

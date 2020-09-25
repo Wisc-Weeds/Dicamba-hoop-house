@@ -1,0 +1,463 @@
+Plot,Trt,DAT,Rep,Distance,Injury,Height (in),Plants,Injured,Height (cm)
+101,Xtendimax w/Vaporgrip + Warrant,14,1,0,2,18,76,4,46
+101,Xtendimax w/Vaporgrip + Warrant,14,1,30,10,18,,,46
+101,Xtendimax w/Vaporgrip + Warrant,14,1,60,1,17,,,43
+101,Xtendimax w/Vaporgrip + Warrant,14,1,90,1,16,,,41
+101,Xtendimax w/Vaporgrip + Warrant,14,1,120,1,18,,,44
+101,Xtendimax w/Vaporgrip + Warrant,14,1,150,0,17,,,42
+101,Xtendimax w/Vaporgrip + Warrant,14,1,180,0,17,,,43
+101,Xtendimax w/Vaporgrip + Warrant,14,1,210,0,17,,,43
+101,Xtendimax w/Vaporgrip + Warrant,14,1,240,0,18,,,46
+101,Xtendimax w/Vaporgrip + Warrant,14,1,270,0,17,,,43
+101,Xtendimax w/Vaporgrip + Warrant,14,1,300,0,17,,,43
+101,Xtendimax w/Vaporgrip + Warrant,28,1,0,0,30,76,4,77
+101,Xtendimax w/Vaporgrip + Warrant,28,1,30,10,30,,,76
+101,Xtendimax w/Vaporgrip + Warrant,28,1,60,2,30,,,75
+101,Xtendimax w/Vaporgrip + Warrant,28,1,90,0,28,,,72
+101,Xtendimax w/Vaporgrip + Warrant,28,1,120,0,30,,,77
+101,Xtendimax w/Vaporgrip + Warrant,28,1,150,0,28,,,72
+101,Xtendimax w/Vaporgrip + Warrant,28,1,180,0,28,,,71
+101,Xtendimax w/Vaporgrip + Warrant,28,1,210,0,30,,,77
+101,Xtendimax w/Vaporgrip + Warrant,28,1,240,0,30,,,77
+101,Xtendimax w/Vaporgrip + Warrant,28,1,270,0,31,,,78
+101,Xtendimax w/Vaporgrip + Warrant,28,1,300,0,30,,,76
+102,MON 304940,14,1,0,2,17,74,5,43
+102,MON 304940,14,1,30,10,17,,,43
+102,MON 304940,14,1,60,1,18,,,46
+102,MON 304940,14,1,90,1,18,,,46
+102,MON 304940,14,1,120,0,18,,,46
+102,MON 304940,14,1,150,0,17,,,43
+102,MON 304940,14,1,180,0,17,,,43
+102,MON 304940,14,1,210,0,17,,,43
+102,MON 304940,14,1,240,0,18,,,46
+102,MON 304940,14,1,270,0,17,,,43
+102,MON 304940,14,1,300,0,17,,,43
+102,MON 304940,28,1,0,8,29,74,7,74
+102,MON 304940,28,1,30,0,30,,,77
+102,MON 304940,28,1,60,0,31,,,79
+102,MON 304940,28,1,90,0,31,,,80
+102,MON 304940,28,1,120,0,32,,,82
+102,MON 304940,28,1,150,0,31,,,78
+102,MON 304940,28,1,180,0,30,,,77
+102,MON 304940,28,1,210,0,30,,,75
+102,MON 304940,28,1,240,0,30,,,77
+102,MON 304940,28,1,270,0,30,,,76
+102,MON 304940,28,1,300,0,30,,,77
+103,MON 301372,14,1,0,8,17,77,5,43
+103,MON 301372,14,1,30,1,17,,,43
+103,MON 301372,14,1,60,0,17,,,43
+103,MON 301372,14,1,90,0,17,,,43
+103,MON 301372,14,1,120,0,17,,,43
+103,MON 301372,14,1,150,0,17,,,43
+103,MON 301372,14,1,180,0,17,,,42
+103,MON 301372,14,1,210,2,18,,,44
+103,MON 301372,14,1,240,1,16,,,41
+103,MON 301372,14,1,270,0,18,,,44
+103,MON 301372,14,1,300,0,17,,,43
+103,MON 301372,28,1,0,0,29,77,5,74
+103,MON 301372,28,1,30,5,31,,,79
+103,MON 301372,28,1,60,2,30,,,76
+103,MON 301372,28,1,90,5,28,,,70
+103,MON 301372,28,1,120,2,29,,,74
+103,MON 301372,28,1,150,2,30,,,76
+103,MON 301372,28,1,180,2,30,,,77
+103,MON 301372,28,1,210,0,29,,,74
+103,MON 301372,28,1,240,0,30,,,76
+103,MON 301372,28,1,270,0,31,,,79
+103,MON 301372,28,1,300,0,30,,,76
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,0,5,16,75,8,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,30,5,16,,,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,60,5,16,,,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,90,2,17,,,43
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,120,2,17,,,43
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,150,2,17,,,43
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,180,1,16,,,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,210,0,16,,,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,240,0,16,,,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,270,0,16,,,41
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,1,300,0,16,,,39
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,0,0,29,75,20,73
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,30,0,28,,,72
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,60,25,29,,,74
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,90,2,30,,,75
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,120,0,30,,,77
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,150,0,30,,,76
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,180,0,30,,,75
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,210,0,30,,,75
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,240,0,30,,,75
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,270,0,29,,,74
+104,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,1,300,0,29,,,74
+105,MON 304940 + PowerMax,14,1,0,8,17,76,4,43
+105,MON 304940 + PowerMax,14,1,30,5,18,,,46
+105,MON 304940 + PowerMax,14,1,60,0,17,,,43
+105,MON 304940 + PowerMax,14,1,90,2,18,,,46
+105,MON 304940 + PowerMax,14,1,120,1,18,,,46
+105,MON 304940 + PowerMax,14,1,150,0,18,,,46
+105,MON 304940 + PowerMax,14,1,180,0,18,,,46
+105,MON 304940 + PowerMax,14,1,210,0,17,,,43
+105,MON 304940 + PowerMax,14,1,240,0,18,,,46
+105,MON 304940 + PowerMax,14,1,270,1,18,,,46
+105,MON 304940 + PowerMax,14,1,300,2,18,,,46
+105,MON 304940 + PowerMax,28,1,0,20,30,76,12,77
+105,MON 304940 + PowerMax,28,1,30,15,30,,,77
+105,MON 304940 + PowerMax,28,1,60,5,31,,,78
+105,MON 304940 + PowerMax,28,1,90,5,31,,,79
+105,MON 304940 + PowerMax,28,1,120,2,31,,,79
+105,MON 304940 + PowerMax,28,1,150,0,30,,,77
+105,MON 304940 + PowerMax,28,1,180,0,30,,,76
+105,MON 304940 + PowerMax,28,1,210,0,31,,,78
+105,MON 304940 + PowerMax,28,1,240,0,30,,,77
+105,MON 304940 + PowerMax,28,1,270,0,31,,,79
+105,MON 304940 + PowerMax,28,1,300,0,31,,,78
+106,MON 301372 + PowerMax,14,1,0,7,17,71,4,43
+106,MON 301372 + PowerMax,14,1,30,2,16,,,39
+106,MON 301372 + PowerMax,14,1,60,12,17,,,43
+106,MON 301372 + PowerMax,14,1,90,2,18,,,46
+106,MON 301372 + PowerMax,14,1,120,5,17,,,43
+106,MON 301372 + PowerMax,14,1,150,2,15,,,38
+106,MON 301372 + PowerMax,14,1,180,2,18,,,46
+106,MON 301372 + PowerMax,14,1,210,1,16,,,41
+106,MON 301372 + PowerMax,14,1,240,0,18,,,46
+106,MON 301372 + PowerMax,14,1,270,1,17,,,43
+106,MON 301372 + PowerMax,14,1,300,0,17,,,43
+106,MON 301372 + PowerMax,28,1,0,15,29,71,6,74
+106,MON 301372 + PowerMax,28,1,30,5,30,,,76
+106,MON 301372 + PowerMax,28,1,60,20,30,,,76
+106,MON 301372 + PowerMax,28,1,90,0,29,,,73
+106,MON 301372 + PowerMax,28,1,120,0,31,,,78
+106,MON 301372 + PowerMax,28,1,150,0,30,,,77
+106,MON 301372 + PowerMax,28,1,180,0,31,,,80
+106,MON 301372 + PowerMax,28,1,210,0,31,,,78
+106,MON 301372 + PowerMax,28,1,240,0,31,,,79
+106,MON 301372 + PowerMax,28,1,270,0,30,,,77
+106,MON 301372 + PowerMax,28,1,300,0,0,,,
+107,Untreated,14,1,0,0,17,78,0,43
+107,Untreated,14,1,30,0,18,,,46
+107,Untreated,14,1,60,0,17,,,43
+107,Untreated,14,1,90,0,16,,,41
+107,Untreated,14,1,120,0,17,,,43
+107,Untreated,14,1,150,0,18,,,46
+107,Untreated,14,1,180,0,16,,,39
+107,Untreated,14,1,210,0,16,,,41
+107,Untreated,14,1,240,0,18,,,46
+107,Untreated,14,1,270,0,16,,,41
+107,Untreated,14,1,300,0,18,,,46
+107,Untreated,28,1,0,0,32,78,0,82
+107,Untreated,28,1,30,0,32,,,82
+107,Untreated,28,1,60,0,31,,,79
+107,Untreated,28,1,90,0,31,,,78
+107,Untreated,28,1,120,0,30,,,77
+107,Untreated,28,1,150,0,31,,,79
+107,Untreated,28,1,180,0,31,,,80
+107,Untreated,28,1,210,0,31,,,79
+107,Untreated,28,1,240,0,31,,,79
+107,Untreated,28,1,270,0,31,,,80
+107,Untreated,28,1,300,0,32,,,81
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,0,0,17,75,10,43
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,30,0,19,,,48
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,60,2,17,,,43
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,90,12,17,,,43
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,120,2,18,,,46
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,150,0,16,,,41
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,180,0,19,,,47
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,210,0,18,,,46
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,240,1,19,,,48
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,270,0,17,,,43
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,2,300,0,17,,,43
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,0,15,33,75,11,83
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,30,2,31,,,78
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,60,0,31,,,78
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,90,5,30,,,77
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,120,0,30,,,77
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,150,0,31,,,78
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,180,0,30,,,77
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,210,0,30,,,76
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,240,0,32,,,81
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,270,0,31,,,78
+201,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,2,300,0,30,,,76
+202,Xtendimax w/Vaporgrip + Warrant,14,2,0,2,18,79,11,46
+202,Xtendimax w/Vaporgrip + Warrant,14,2,30,5,18,,,46
+202,Xtendimax w/Vaporgrip + Warrant,14,2,60,2,17,,,43
+202,Xtendimax w/Vaporgrip + Warrant,14,2,90,1,17,,,43
+202,Xtendimax w/Vaporgrip + Warrant,14,2,120,0,15,,,38
+202,Xtendimax w/Vaporgrip + Warrant,14,2,150,2,16,,,41
+202,Xtendimax w/Vaporgrip + Warrant,14,2,180,1,16,,,41
+202,Xtendimax w/Vaporgrip + Warrant,14,2,210,0,17,,,43
+202,Xtendimax w/Vaporgrip + Warrant,14,2,240,0,18,,,46
+202,Xtendimax w/Vaporgrip + Warrant,14,2,270,0,8,,,20
+202,Xtendimax w/Vaporgrip + Warrant,14,2,300,0,18,,,44
+202,Xtendimax w/Vaporgrip + Warrant,28,2,0,15,30,79,13,76
+202,Xtendimax w/Vaporgrip + Warrant,28,2,30,2,31,,,78
+202,Xtendimax w/Vaporgrip + Warrant,28,2,60,0,31,,,78
+202,Xtendimax w/Vaporgrip + Warrant,28,2,90,0,31,,,80
+202,Xtendimax w/Vaporgrip + Warrant,28,2,120,0,32,,,81
+202,Xtendimax w/Vaporgrip + Warrant,28,2,150,0,31,,,80
+202,Xtendimax w/Vaporgrip + Warrant,28,2,180,0,32,,,82
+202,Xtendimax w/Vaporgrip + Warrant,28,2,210,0,31,,,78
+202,Xtendimax w/Vaporgrip + Warrant,28,2,240,0,31,,,79
+202,Xtendimax w/Vaporgrip + Warrant,28,2,270,0,30,,,77
+202,Xtendimax w/Vaporgrip + Warrant,28,2,300,0,32,,,81
+203,MON 304940 + PowerMax,14,2,0,0,18,77,13,46
+203,MON 304940 + PowerMax,14,2,30,2,17,,,43
+203,MON 304940 + PowerMax,14,2,60,15,17,,,42
+203,MON 304940 + PowerMax,14,2,90,0,16,,,41
+203,MON 304940 + PowerMax,14,2,120,1,16,,,41
+203,MON 304940 + PowerMax,14,2,150,0,17,,,43
+203,MON 304940 + PowerMax,14,2,180,0,16,,,41
+203,MON 304940 + PowerMax,14,2,210,0,18,,,46
+203,MON 304940 + PowerMax,14,2,240,0,18,,,44
+203,MON 304940 + PowerMax,14,2,270,0,17,,,43
+203,MON 304940 + PowerMax,14,2,300,0,17,,,43
+203,MON 304940 + PowerMax,28,2,0,0,31,77,10,79
+203,MON 304940 + PowerMax,28,2,30,5,31,,,78
+203,MON 304940 + PowerMax,28,2,60,25,30,,,75
+203,MON 304940 + PowerMax,28,2,90,0,30,,,76
+203,MON 304940 + PowerMax,28,2,120,0,30,,,77
+203,MON 304940 + PowerMax,28,2,150,0,30,,,77
+203,MON 304940 + PowerMax,28,2,180,0,30,,,76
+203,MON 304940 + PowerMax,28,2,210,0,31,,,79
+203,MON 304940 + PowerMax,28,2,240,0,30,,,77
+203,MON 304940 + PowerMax,28,2,270,0,31,,,79
+203,MON 304940 + PowerMax,28,2,300,0,31,,,79
+204,MON 301372,14,2,0,2,18,75,8,46
+204,MON 301372,14,2,30,2,17,,,43
+204,MON 301372,14,2,60,1,17,,,43
+204,MON 301372,14,2,90,0,17,,,43
+204,MON 301372,14,2,120,0,18,,,46
+204,MON 301372,14,2,150,0,17,,,43
+204,MON 301372,14,2,180,0,18,,,46
+204,MON 301372,14,2,210,1,19,,,48
+204,MON 301372,14,2,240,0,19,,,47
+204,MON 301372,14,2,270,0,18,,,46
+204,MON 301372,14,2,300,0,18,,,46
+204,MON 301372,28,2,0,20,32,75,14,81
+204,MON 301372,28,2,30,2,31,,,80
+204,MON 301372,28,2,60,20,32,,,81
+204,MON 301372,28,2,90,2,32,,,81
+204,MON 301372,28,2,120,0,31,,,79
+204,MON 301372,28,2,150,0,32,,,82
+204,MON 301372,28,2,180,0,31,,,80
+204,MON 301372,28,2,210,0,32,,,81
+204,MON 301372,28,2,240,0,32,,,82
+204,MON 301372,28,2,270,0,31,,,78
+204,MON 301372,28,2,300,0,30,,,75
+205,MON 301372 + PowerMax,14,2,0,8,19,72,12,48
+205,MON 301372 + PowerMax,14,2,30,2,19,,,48
+205,MON 301372 + PowerMax,14,2,60,8,18,,,46
+205,MON 301372 + PowerMax,14,2,90,5,17,,,43
+205,MON 301372 + PowerMax,14,2,120,2,18,,,46
+205,MON 301372 + PowerMax,14,2,150,0,17,,,43
+205,MON 301372 + PowerMax,14,2,180,0,18,,,46
+205,MON 301372 + PowerMax,14,2,210,0,18,,,46
+205,MON 301372 + PowerMax,14,2,240,0,17,,,42
+205,MON 301372 + PowerMax,14,2,270,0,18,,,46
+205,MON 301372 + PowerMax,14,2,300,0,18,,,44
+205,MON 301372 + PowerMax,28,2,0,5,32,72,12,81
+205,MON 301372 + PowerMax,28,2,30,30,33,,,84
+205,MON 301372 + PowerMax,28,2,60,2,33,,,83
+205,MON 301372 + PowerMax,28,2,90,0,31,,,79
+205,MON 301372 + PowerMax,28,2,120,0,32,,,81
+205,MON 301372 + PowerMax,28,2,150,0,31,,,79
+205,MON 301372 + PowerMax,28,2,180,0,32,,,82
+205,MON 301372 + PowerMax,28,2,210,0,32,,,81
+205,MON 301372 + PowerMax,28,2,240,0,33,,,83
+205,MON 301372 + PowerMax,28,2,270,0,31,,,79
+205,MON 301372 + PowerMax,28,2,300,0,32,,,82
+206,Untreated,14,2,0,0,17,81,0,43
+206,Untreated,14,2,30,0,19,,,48
+206,Untreated,14,2,60,0,17,,,43
+206,Untreated,14,2,90,0,18,,,46
+206,Untreated,14,2,120,0,17,,,43
+206,Untreated,14,2,150,0,17,,,43
+206,Untreated,14,2,180,0,18,,,46
+206,Untreated,14,2,210,0,18,,,46
+206,Untreated,14,2,240,0,18,,,46
+206,Untreated,14,2,270,0,18,,,46
+206,Untreated,14,2,300,0,18,,,46
+206,Untreated,28,2,0,0,30,81,0,76
+206,Untreated,28,2,30,0,33,,,83
+206,Untreated,28,2,60,0,31,,,80
+206,Untreated,28,2,90,0,31,,,79
+206,Untreated,28,2,120,0,32,,,82
+206,Untreated,28,2,150,0,30,,,76
+206,Untreated,28,2,180,0,32,,,81
+206,Untreated,28,2,210,0,33,,,85
+206,Untreated,28,2,240,0,32,,,82
+206,Untreated,28,2,270,0,31,,,80
+206,Untreated,28,2,300,0,31,,,78
+207,MON 304940,14,2,0,2,18,76,5,46
+207,MON 304940,14,2,30,10,18,,,46
+207,MON 304940,14,2,60,2,19,,,48
+207,MON 304940,14,2,90,0,19,,,48
+207,MON 304940,14,2,120,0,18,,,46
+207,MON 304940,14,2,150,0,17,,,43
+207,MON 304940,14,2,180,0,18,,,46
+207,MON 304940,14,2,210,0,18,,,46
+207,MON 304940,14,2,240,0,18,,,46
+207,MON 304940,14,2,270,0,18,,,46
+207,MON 304940,14,2,300,0,17,,,43
+207,MON 304940,28,2,0,2,31,76,7,79
+207,MON 304940,28,2,30,30,33,,,83
+207,MON 304940,28,2,60,10,31,,,78
+207,MON 304940,28,2,90,0,32,,,82
+207,MON 304940,28,2,120,0,32,,,82
+207,MON 304940,28,2,150,0,32,,,82
+207,MON 304940,28,2,180,0,32,,,81
+207,MON 304940,28,2,210,0,33,,,84
+207,MON 304940,28,2,240,0,31,,,80
+207,MON 304940,28,2,270,0,32,,,81
+207,MON 304940,28,2,300,0,30,,,77
+301,MON 304940 + PowerMax,14,3,0,5,16,79,11,41
+301,MON 304940 + PowerMax,14,3,30,2,18,,,46
+301,MON 304940 + PowerMax,14,3,60,1,17,,,43
+301,MON 304940 + PowerMax,14,3,90,1,16,,,41
+301,MON 304940 + PowerMax,14,3,120,1,18,,,46
+301,MON 304940 + PowerMax,14,3,150,0,16,,,41
+301,MON 304940 + PowerMax,14,3,180,0,16,,,41
+301,MON 304940 + PowerMax,14,3,210,0,17,,,43
+301,MON 304940 + PowerMax,14,3,240,0,17,,,43
+301,MON 304940 + PowerMax,14,3,270,0,18,,,46
+301,MON 304940 + PowerMax,14,3,300,0,16,,,41
+301,MON 304940 + PowerMax,28,3,0,5,30,79,11,77
+301,MON 304940 + PowerMax,28,3,30,5,31,,,79
+301,MON 304940 + PowerMax,28,3,60,5,30,,,77
+301,MON 304940 + PowerMax,28,3,90,5,31,,,80
+301,MON 304940 + PowerMax,28,3,120,5,31,,,78
+301,MON 304940 + PowerMax,28,3,150,2,31,,,80
+301,MON 304940 + PowerMax,28,3,180,0,31,,,79
+301,MON 304940 + PowerMax,28,3,210,0,31,,,79
+301,MON 304940 + PowerMax,28,3,240,0,31,,,78
+301,MON 304940 + PowerMax,28,3,270,0,30,,,77
+301,MON 304940 + PowerMax,28,3,300,0,30,,,76
+302,MON 301372,14,3,0,2,17,82,7,43
+302,MON 301372,14,3,30,0,17,,,43
+302,MON 301372,14,3,60,0,18,,,46
+302,MON 301372,14,3,90,0,18,,,46
+302,MON 301372,14,3,120,0,19,,,48
+302,MON 301372,14,3,150,2,18,,,46
+302,MON 301372,14,3,180,0,18,,,46
+302,MON 301372,14,3,210,0,18,,,46
+302,MON 301372,14,3,240,1,19,,,48
+302,MON 301372,14,3,270,0,18,,,46
+302,MON 301372,14,3,300,0,18,,,46
+302,MON 301372,28,3,0,0,30,82,14,76
+302,MON 301372,28,3,30,8,31,,,79
+302,MON 301372,28,3,60,2,32,,,81
+302,MON 301372,28,3,90,0,33,,,83
+302,MON 301372,28,3,120,2,31,,,80
+302,MON 301372,28,3,150,15,31,,,80
+302,MON 301372,28,3,180,0,31,,,79
+302,MON 301372,28,3,210,0,32,,,82
+302,MON 301372,28,3,240,0,33,,,83
+302,MON 301372,28,3,270,0,32,,,81
+302,MON 301372,28,3,300,0,31,,,78
+303,Untreated,14,3,0,0,18,74,0,46
+303,Untreated,14,3,30,0,19,,,48
+303,Untreated,14,3,60,0,19,,,48
+303,Untreated,14,3,90,0,18,,,46
+303,Untreated,14,3,120,0,18,,,46
+303,Untreated,14,3,150,0,18,,,46
+303,Untreated,14,3,180,0,19,,,47
+303,Untreated,14,3,210,0,19,,,48
+303,Untreated,14,3,240,0,17,,,43
+303,Untreated,14,3,270,0,16,,,41
+303,Untreated,14,3,300,0,17,,,43
+303,Untreated,28,3,0,0,30,74,0,76
+303,Untreated,28,3,30,0,32,,,82
+303,Untreated,28,3,60,0,32,,,81
+303,Untreated,28,3,90,0,33,,,83
+303,Untreated,28,3,120,0,31,,,80
+303,Untreated,28,3,150,0,31,,,79
+303,Untreated,28,3,180,0,31,,,78
+303,Untreated,28,3,210,0,31,,,80
+303,Untreated,28,3,240,0,32,,,81
+303,Untreated,28,3,270,0,32,,,82
+303,Untreated,28,3,300,0,31,,,79
+304,MON 304940,14,3,0,2,17,80,9,43
+304,MON 304940,14,3,30,10,18,,,46
+304,MON 304940,14,3,60,5,17,,,43
+304,MON 304940,14,3,90,2,18,,,46
+304,MON 304940,14,3,120,2,18,,,46
+304,MON 304940,14,3,150,0,17,,,43
+304,MON 304940,14,3,180,0,17,,,43
+304,MON 304940,14,3,210,0,18,,,46
+304,MON 304940,14,3,240,0,18,,,46
+304,MON 304940,14,3,270,0,18,,,44
+304,MON 304940,14,3,300,0,16,,,41
+304,MON 304940,28,3,0,2,31,80,13,80
+304,MON 304940,28,3,30,25,32,,,82
+304,MON 304940,28,3,60,2,31,,,80
+304,MON 304940,28,3,90,0,32,,,82
+304,MON 304940,28,3,120,0,31,,,79
+304,MON 304940,28,3,150,0,31,,,79
+304,MON 304940,28,3,180,0,30,,,76
+304,MON 304940,28,3,210,0,31,,,80
+304,MON 304940,28,3,240,0,31,,,80
+304,MON 304940,28,3,270,0,31,,,80
+304,MON 304940,28,3,300,0,31,,,79
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,0,5,17,78,10,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,30,3,17,,,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,60,2,17,,,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,90,2,16,,,41
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,120,0,17,,,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,150,2,17,,,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,180,0,18,,,46
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,210,1,18,,,46
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,240,0,17,,,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,270,0,17,,,43
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,14,3,300,0,17,,,42
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,0,5,30,78,14,77
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,30,10,31,,,79
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,60,2,30,,,77
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,90,0,30,,,76
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,120,0,30,,,75
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,150,0,31,,,80
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,180,0,32,,,82
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,210,0,30,,,77
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,240,0,31,,,79
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,270,0,31,,,78
+305,Xtendimax w/Vaporgrip + Warrant + PowerMax,28,3,300,0,31,,,78
+306,Xtendimax w/Vaporgrip + Warrant,14,3,0,20,16,83,9,41
+306,Xtendimax w/Vaporgrip + Warrant,14,3,30,5,17,,,43
+306,Xtendimax w/Vaporgrip + Warrant,14,3,60,2,18,,,46
+306,Xtendimax w/Vaporgrip + Warrant,14,3,90,1,18,,,46
+306,Xtendimax w/Vaporgrip + Warrant,14,3,120,0,18,,,46
+306,Xtendimax w/Vaporgrip + Warrant,14,3,150,0,19,,,48
+306,Xtendimax w/Vaporgrip + Warrant,14,3,180,0,17,,,43
+306,Xtendimax w/Vaporgrip + Warrant,14,3,210,0,18,,,46
+306,Xtendimax w/Vaporgrip + Warrant,14,3,240,0,16,,,41
+306,Xtendimax w/Vaporgrip + Warrant,14,3,270,0,18,,,46
+306,Xtendimax w/Vaporgrip + Warrant,14,3,300,0,17,,,43
+306,Xtendimax w/Vaporgrip + Warrant,28,3,0,35,30,83,12,76
+306,Xtendimax w/Vaporgrip + Warrant,28,3,30,2,31,,,79
+306,Xtendimax w/Vaporgrip + Warrant,28,3,60,0,31,,,80
+306,Xtendimax w/Vaporgrip + Warrant,28,3,90,0,32,,,81
+306,Xtendimax w/Vaporgrip + Warrant,28,3,120,0,32,,,82
+306,Xtendimax w/Vaporgrip + Warrant,28,3,150,0,31,,,80
+306,Xtendimax w/Vaporgrip + Warrant,28,3,180,0,31,,,78
+306,Xtendimax w/Vaporgrip + Warrant,28,3,210,0,31,,,78
+306,Xtendimax w/Vaporgrip + Warrant,28,3,240,0,31,,,79
+306,Xtendimax w/Vaporgrip + Warrant,28,3,270,0,31,,,80
+306,Xtendimax w/Vaporgrip + Warrant,28,3,300,0,30,,,77
+307,MON 301372 + PowerMax,14,3,0,5,19,78,5,48
+307,MON 301372 + PowerMax,14,3,30,2,19,,,48
+307,MON 301372 + PowerMax,14,3,60,0,18,,,46
+307,MON 301372 + PowerMax,14,3,90,0,17,,,43
+307,MON 301372 + PowerMax,14,3,120,0,19,,,48
+307,MON 301372 + PowerMax,14,3,150,0,17,,,43
+307,MON 301372 + PowerMax,14,3,180,0,18,,,46
+307,MON 301372 + PowerMax,14,3,210,0,17,,,43
+307,MON 301372 + PowerMax,14,3,240,0,18,,,46
+307,MON 301372 + PowerMax,14,3,270,0,18,,,46
+307,MON 301372 + PowerMax,14,3,300,0,17,,,43
+307,MON 301372 + PowerMax,28,3,0,0,33,78,11,83
+307,MON 301372 + PowerMax,28,3,30,5,31,,,78
+307,MON 301372 + PowerMax,28,3,60,0,31,,,80
+307,MON 301372 + PowerMax,28,3,90,0,31,,,79
+307,MON 301372 + PowerMax,28,3,120,0,32,,,82
+307,MON 301372 + PowerMax,28,3,150,0,32,,,81
+307,MON 301372 + PowerMax,28,3,180,0,31,,,79
+307,MON 301372 + PowerMax,28,3,210,0,31,,,80
+307,MON 301372 + PowerMax,28,3,240,0,32,,,81
+307,MON 301372 + PowerMax,28,3,270,0,31,,,79
+307,MON 301372 + PowerMax,28,3,300,0,32,,,81

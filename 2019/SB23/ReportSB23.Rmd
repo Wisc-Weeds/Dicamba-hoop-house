@@ -1,0 +1,256 @@
+---
+title: "Bayer Low Tunnel Volatility Study"
+subtitle: "Summary of 19-ARL-SB23 study"
+address: University of Wisconsin-Madison
+author: "| Rodrigo Werle^1^, Ryan DeWerff^2^, Nick Arneson^3^, Max Oliveira^4^, Sarah Striegel^5^, Victor Ribeiro^5^, Nikola Arsenijevic^5^, Felipe Faleco^5^, Kolby Grint^5^, Haleigh Ortmeier-Clarke^5^ and  Madison Mels^6^ \n| ^1^ Principal
+  Investigator\n| ^2^ Research Technician  ^3^ Outreach Research and Extension Associate ^4^ Postdoctoral Research Associate ^5^ Graduate Student ^6^ Undergraduate Research Assistant \n"
+
+# Change the following lines only if you know what you are doing:
+#date: '`r format(Sys.Date(), "%d\\. %m\\. %Y")`'  # today
+fontfamily: lmodern
+fontsize: 12pt
+graphics: null
+papersize: 
+geometry: margin=1.0in
+classoption:
+  - a4paper
+  - oneside
+  #- more options here, see rmarkdown documentation 
+numbersections: yes
+header-includes:
+- \usepackage{pdflscape}
+- \newcommand{\blandscape}{\begin{landscape}}
+- \newcommand{\elandscape}{\end{landscape}}
+- \usepackage{booktabs}
+- \usepackage{multirow}
+- \usepackage{float}
+fig_caption: yes
+keep_tex: yes
+output: pdf_document
+---
+
+
+
+```{r echo=FALSE, fig.align="center", fig.pos='h', out.width='100%'}
+knitr::include_graphics("Logo.png")
+```
+
+
+\newpage 
+\tableofcontents 
+\newpage 
+\listoffigures
+\newpage 
+\listoftables
+\newpage
+
+
+# Methods
+
+## Plant Material and Area Management
+
+•	Soybean variety: DSR-1950 R2Y
+
+•	Soybean seed rate: 140,000 seeds acre^-1^
+
+•	Soybean row width: 30-inch rows at 1 in depth
+
+•	Soybean planting date: 5/23/2019 (Replant 6/19)
+
+•	Herbicide treatments: 
+
+*EPOST* app on the orignial soybean stand - 6/11:
+Dual II Magnum @ 1.5 pt/a +
+Roundup PowerMax @ 22 fl oz/a+
+   AMS @8.5 lb/100 gal
+
+*Burndown* of original soybean stand - 6/18:  
+Liberty @ 24 fl oz/a + AMS @ 8.5 lb/100 gal  
+
+*POST* app on replant stand - 8/8
+Roundup @ 22 fl oz/a + AMS @ 8.5lb/100 gal
+
+•	Herbicide treatments application (Flat): 945 am to 1045 am on July 19
+
+•	Soybean stage at flat application: V4/V5
+
+•	Flat removal from low-tunnel: 945 am to 1045 am on July 21
+
+•	Results presented at 14 and 28 DAT (days after treatment)
+
+•	Photos taken at 14 DAT  
+
+## Modeling
+
+Sybean injury (%) was collected every foot (0 to 25 ft) from the center of the experimental unit. A row with highest soybean injury was chosen for data collection. Soybean injury and height are shown in box plots.
+
+\newpage
+
+# Protocol
+
+```{r echo=FALSE, fig.align="center", fig.pos='h', fig.cap="", out.width='80%'}
+knitr::include_graphics("19-ARL-SB23.pdf")
+```
+
+\newpage
+
+```{r echo=FALSE, fig.align="center", fig.pos='h', fig.cap="Hoop house ready for treated flat placement. Photo: Nikola Arsenijevic", out.width='100%'}
+knitr::include_graphics("hoop.png")
+```
+
+
+
+
+\newpage
+\blandscape
+
+
+\begin{table}[]
+\centering
+\caption{Weather conditions in the 48 h period of flat placement under the hoop houses at the University of Wisconsin-Madison.}
+\label{tab:my-table}
+\begin{tabular}{llllllllllllll}
+\hline
+\multicolumn{1}{c}{\multirow{2}{*}{Date}} & \multicolumn{3}{c}{Soil flat temp} & \multicolumn{3}{c}{Temp at 6 in} & \multicolumn{3}{c}{Relative Humidity} & \multicolumn{3}{c}{Air Temp} & \multirow{2}{*}{Rainfall (in)} \\ \cline{2-13}
+\multicolumn{1}{c}{}                      & Avg (F)    & Max (F)   & Min (F)   & Avg (F)   & Max (F)   & Min (F)  & Avg (\%)    & Max (\%)   & Min (\%)   & Avg (F)  & Max (F) & Min (F) &                                \\ \hline
+July 19                                   & 88         & 95        & 82        & 90        & 100       & 81       & 83          & 97         & 70         & 81       & 92      & 67      & 1.2                            \\
+July 20                                   & 76         & 90        & 67        & 78        & 92        & 69       & 89          & 95         & 76         & 75       & 87      & 66      & 0.3                            \\ \hline
+\end{tabular}
+\end{table}
+
+
+
+# Results
+
+```{r include=FALSE}
+library(ggplot2)
+library(tidyverse)
+library(ggthemes)
+```
+
+```{r include=FALSE}
+Data <- read_csv("SB23.csv") %>% 
+  filter(DAT == "14")
+Data$treatment <- factor(Data$treatment)
+Data$distanceft <- factor(Data$distanceft)
+glimpse(Data)
+
+Data$treatment <-factor(Data$treatment, levels=c("1", "2", "3", "4", "5", "6",  "7"), labels=c("XtendiMax w/ Vaporgrip + PowerMax + Intact", "XtendiMax w/ Vaporgrip + PowerMax + MON 51817 - Vaporgrip + Intact", "XtendiMax w/ Vaporgrip + PowerMax + Liberty 280 SL + MON 51817 - VaporGrip + Intact", "MON 119151 - RupXtend II VGrip", "MON 119151 - RupXtend II VGrip + Liberty 280 SL", "MON 51817 - VaporGrip + Intact", "Untreated"))
+```
+
+
+```{r echo=FALSE, fig.width=22, fig.height=14, warning=FALSE}
+ggplot(Data, aes(x=distanceft, y=injury)) + 
+  ggtitle("19-ARL-SB23 at 14 DAT") + geom_boxplot(outlier.shape=1, fill="red", alpha=0.2, width=0.7) + #geom_jitter(shape=1, width = .05) + 
+     theme(axis.text=element_text(size=22, color="black"), 
+        axis.title=element_text(size=24,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), title = element_text(size=26),
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 18, margin = margin(0.3,0,0.3,0, "cm"), color="white", face="bold")) + ylim(0,60) + facet_wrap(~treatment, ncol = 2) + labs(y="Soybean Injury (%)", x="Distance (ft)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") 
+```
+
+```{r echo=FALSE, fig.width=22, fig.height=14, warning=FALSE}
+ggplot(Data, aes(x=distanceft, y=height)) + 
+  ggtitle("19-ARL-SB23 at 14 DAT - Height") + geom_boxplot(outlier.shape=1, fill="red", alpha=0.2, width=0.7) + #geom_jitter(shape=1, width = .05) + 
+     theme(axis.text=element_text(size=22, color="black"), 
+        axis.title=element_text(size=24,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), title = element_text(size=26),
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 18, margin = margin(0.3,0,0.3,0, "cm"), color="white", face="bold")) + ylim(0,90) + facet_wrap(~treatment, ncol = 2) + labs(y="Soybean height (cm)", x="Distance (ft)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") 
+```
+
+\newpage
+
+
+```{r include=FALSE}
+Data <- read_csv("SB23.csv") %>% 
+  filter(DAT == "28")
+Data$treatment <- factor(Data$treatment)
+Data$distanceft <- factor(Data$distanceft)
+glimpse(Data)
+
+Data$treatment <-factor(Data$treatment, levels=c("1", "2", "3", "4", "5", "6",  "7"), labels=c("XtendiMax w/ Vaporgrip + PowerMax + Intact", "XtendiMax w/ Vaporgrip + PowerMax + MON 51817 - Vaporgrip + Intact", "XtendiMax w/ Vaporgrip + PowerMax + Liberty 280 SL + MON 51817 - VaporGrip + Intact", "MON 119151 - RupXtend II VGrip", "MON 119151 - RupXtend II VGrip + Liberty 280 SL", "MON 51817 - VaporGrip + Intact", "Untreated"))
+```
+
+
+
+
+```{r echo=FALSE, fig.width=22, fig.height=14, warning=FALSE}
+ggplot(Data, aes(x=distanceft, y=injury)) + 
+  ggtitle("19-ARL-SB23 at 28 DAT - Injury") + geom_boxplot(outlier.shape=1, fill="red", alpha=0.2, width=0.7) + #geom_jitter(shape=1, width = .05) + 
+     theme(axis.text=element_text(size=22, color="black"), 
+        axis.title=element_text(size=24,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), title = element_text(size=26),
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 18, margin = margin(0.3,0,0.3,0, "cm"), color="white", face="bold")) + ylim(0,60) + facet_wrap(~treatment, ncol = 2) + labs(y="Soybean Injury (%)", x="Distance (ft)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") 
+```
+
+
+```{r echo=FALSE, fig.width=22, fig.height=14, warning=FALSE}
+ggplot(Data, aes(x=distanceft, y=height)) + 
+  ggtitle("19-ARL-SB23 at 28 DAT - Height") + geom_boxplot(outlier.shape=1, fill="red", alpha=0.2, width=0.7) + #geom_jitter(shape=1, width = .05) + 
+     theme(axis.text=element_text(size=22, color="black"), 
+        axis.title=element_text(size=24,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), title = element_text(size=26),
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 18, margin = margin(0.3,0,0.3,0, "cm"), color="white", face="bold")) + ylim(0,90) + facet_wrap(~treatment, ncol = 2) + labs(y="Soybean height (cm)", x="Distance (ft)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") 
+```
+
+\newpage
+
+
+
+\begin{table}[h!]
+\caption{Sum of soybean stand count, sum of injured plants and \% of injured soybean plants in the three replications within 10 ft (under the cover) at the University of Wisconsin-Madison.}
+\label{tab:my-table}
+\begin{tabular}{llll}
+\hline
+Treatment                                                                           & Stand count & Injured plants & \%, Injured plants \\ \hline
+XtendiMax w/ Vaporgrip + PowerMax + Intact                                          & 175         & 75             & 43                 \\
+XtendiMax w/ Vaporgrip + PowerMax + MON 51817 - Vaporgrip + Intact                  & 173         & 13             & 8                  \\
+XtendiMax w/ Vaporgrip + PowerMax + Liberty 280 SL + MON 51817 - VaporGrip + Intact & 191         & 10             & 5                  \\
+MON 119151 - RupXtend II VGrip                                                      & 184         & 109            & 59                 \\
+MON 119151 - RupXtend II VGrip + MON 51817 - VaporGrip                              & 186         & 25             & 29                 \\
+MON 119151 - RupXtend II VGrip + Liberty 280 SL                                     & 181         & 40             & 22                 \\
+Untreated                                                                           & 188         & 0              & 0                  \\ \hline
+\end{tabular}
+\end{table}
+
+
+
+\elandscape
+\newpage
+
+
+```{r, echo=FALSE, fig.cap="XtendiMax w/ Vaporgrip + PowerMax + Intact at 14 DAT", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t1.png")
+```
+
+
+```{r, echo=FALSE, fig.cap="XtendiMax w/ Vaporgrip + PowerMax + MON 51817 - Vaporgrip + Intact at 14 DAT", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t2.png")
+```
+
+
+```{r, echo=FALSE, fig.cap="XtendiMax w/ Vaporgrip + PowerMax + Liberty 280 SL + MON 51817 - VaporGrip + Intact at 14 DAT", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t3.png")
+```
+
+
+```{r, echo=FALSE, fig.cap="MON 119151 - RupXtend II VGrip at 28 DAT", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t4.png")
+```
+
+```{r, echo=FALSE, fig.cap="MON 119151 - RupXtend II VGrip + MON 51817 - VaporGrip", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t5.png")
+```
+
+```{r, echo=FALSE, fig.cap="MON 119151 - RupXtend II VGrip + Liberty 280 SL", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t6.png")
+```
+
+```{r, echo=FALSE, fig.cap="Untreated at 14 DAT", out.width = '100%', fig.align="center", fig.retina = 2, fig.pos='h'}
+knitr::include_graphics("t7.png")
+```
+
+

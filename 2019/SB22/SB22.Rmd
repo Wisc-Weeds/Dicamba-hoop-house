@@ -1,0 +1,67 @@
+---
+title: "Hoops"
+author: "Maxwel Coura Oliveira"
+date: "8/9/2019"
+output: pdf_document
+---
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(ggthemes)
+```
+
+
+```{r}
+Data <- read_csv("SB22.csv") %>% 
+  filter(DAT == "14")
+Data$treatment <- factor(Data$treatment)
+Data$distanceft <- factor(Data$distanceft)
+glimpse(Data)
+```
+
+
+```{r Names change2, include=FALSE}
+Data$treatment <-factor(Data$treatment, levels=c("1", "2", "3", "4", "5", "6",  "7", "8"), labels=c("XtendiMax w/ Vaporgrip + PowerMax + MON 51817 - Vaporgrip + Intact", "MON 301621 - RupXtend II Complete", "MON 301621 - RupXtend II Complete + Liberty 280 SL", "MON 119151 - RupXtend II VGrip", "MON 119151 - RupXtend II VGrip + MON 51817 - VaporGrip", "MON 119151 - RupXtend II VGrip + Liberty 280 SL", "MON 119151 - RupXtend II VGrip + Liberty 280 SL + MON 51817 - VaporGrip + Intact", "Untreated"))
+```
+
+```{r Bayer hoop house 14 DAT Figure}
+ggplot(Data, aes(x=distanceft, y=injury)) + 
+  ggtitle("Bayer Dicamba Volatility SB22 - 14 DAT") + geom_boxplot(outlier.shape=NA, fill="red", alpha=0.2, width=0.5) + #geom_jitter(shape=1, width = .05) + 
+     theme(axis.text=element_text(size=10, color="black"), 
+        axis.title=element_text(size=15,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), 
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 10, margin = margin(0.1,0,0.1,0, "cm"), color="white")) + ylim(0,60) + facet_wrap(~treatment, ncol = 2) + labs(y="Soybean Injury (%)", x="Distance (ft)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") + ggsave("SB22-14DAT.png", units="in", width=12, height=6, dpi=300)
+```
+
+
+
+```{r}
+Data <- read_csv("SB22.csv") %>% 
+  filter(DAT == "28")
+Data$treatment <- factor(Data$treatment)
+Data$distanceft <- factor(Data$distanceft)
+glimpse(Data)
+```
+
+
+```{r Names change2, include=FALSE}
+Data$treatment <-factor(Data$treatment, levels=c("1", "2", "3", "4", "5", "6",  "7", "8"), labels=c("XtendiMax w/ Vaporgrip + PowerMax + MON 51817 - Vaporgrip + Intact", "MON 301621 - RupXtend II Complete", "MON 301621 - RupXtend II Complete + Liberty 280 SL", "MON 119151 - RupXtend II VGrip", "MON 119151 - RupXtend II VGrip + MON 51817 - VaporGrip", "MON 119151 - RupXtend II VGrip + Liberty 280 SL", "MON 119151 - RupXtend II VGrip + Liberty 280 SL + MON 51817 - VaporGrip + Intact", "Untreated"))
+```
+
+```{r Bayer hoop house 1 28 DAT Figure}
+ggplot(Data, aes(x=distanceft, y=injury)) + 
+  ggtitle("Bayer Dicamba Volatility SB22 - 28 DAT") + geom_boxplot(outlier.shape=NA, fill="red", alpha=0.2, width=0.5) + #geom_jitter(shape=1, width = .05) + 
+     theme(axis.text=element_text(size=10, color="black"), 
+        axis.title=element_text(size=15,face="bold"), 
+        panel.background = element_rect(fill="white", color = "black"), 
+        panel.grid.major = element_line(color = "white"), plot.title = element_text(lineheight=.8, face="bold", hjust = 0.5),
+  panel.grid.minor = element_blank(), strip.background = element_rect(fill="darkgreen", color="white"), strip.text.x = element_text(size = 10, margin = margin(0.2,0,0.2,0, "cm"), color="white")) + ylim(0,60) + facet_wrap(~treatment, ncol = 2) + labs(y="Soybean Injury (%)", x="Distance (ft)", caption = "Source: University of Wisconsin-Madison Weed Science, 2018") + ggsave("SB22-28DAT.png", units="in", width=12, height=6, dpi=300)
+```
+
+
+
+
+
+
